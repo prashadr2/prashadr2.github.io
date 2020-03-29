@@ -29,7 +29,7 @@ twitter_username: jekyllrb
 github_username:  prashadr2
 
 # Build settings
-theme: hacker
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
